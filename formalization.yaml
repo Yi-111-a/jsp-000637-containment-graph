@@ -5,7 +5,7 @@ prize_ready: false
 github_owner: Yi-111-a
 lean_repository: https://github.com/Yi-111-a/jsp-000637-containment-graph
 branch: main
-commit_sha: ""
+commit_sha: "d2d30ffc5a400a3ce9b0a0f5e5766d8b34cade9b"  # WIP tip; not prize_ready
 headline_theorems:
   - containmentGraph_maxEdges_ADGS15
 roles:
