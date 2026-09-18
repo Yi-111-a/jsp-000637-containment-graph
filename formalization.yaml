@@ -1,0 +1,22 @@
+jsp_id: JSP-000637
+catalog_url: https://github.com/TheJustinSunPrize/awards/blob/main/problems/catalog-0601-0700.md#JSP-000637
+status: wip_partial
+prize_ready: false
+github_owner: Yi-111-a
+lean_repository: https://github.com/Yi-111-a/jsp-000637-containment-graph
+branch: main
+commit_sha: ""
+headline_theorems:
+  - containmentGraph_maxEdges_ADGS15
+roles:
+  formalization_operators:
+    - Yi-111-a
+  mathematical_solvers_literature:
+    - "Alon–Das–Glebov–Sudakov (ADGS15)"
+    - "Alon–Frankl (AlFr85)"
+attribution_basis: |
+  Formalization work under GitHub account Yi-111-a. Mathematical solution
+  credits remain with the published literature. This stub does not claim the prize.
+build:
+  toolchain_file: lean/lean-toolchain
+  command: lake build

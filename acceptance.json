@@ -1,0 +1,9 @@
+{
+  "jsp_id": "JSP-000637",
+  "catalog_url": "https://github.com/TheJustinSunPrize/awards/blob/main/problems/catalog-0601-0700.md#JSP-000637",
+  "original_question_en": "How many edges can the containment graph of a set family have?",
+  "required_theorems": [
+    "containmentGraph_maxEdges_ADGS15"
+  ],
+  "notes": "Target is the full ADGS15 characterization of c(n,m) for all regimes, not only chain (m≤n+1) or powerset (m=2^n)."
+}
