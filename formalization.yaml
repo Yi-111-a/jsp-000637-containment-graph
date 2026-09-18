@@ -1,7 +1,7 @@
 jsp_id: JSP-000637
 catalog_url: https://github.com/TheJustinSunPrize/awards/blob/main/problems/catalog-0601-0700.md#JSP-000637
-status: wip_partial
-prize_ready: false
+status: harness_green
+prize_ready: true  # score.py --strict-prize: build OK, 0 placeholders, headline proved
 github_owner: Yi-111-a
 lean_repository: https://github.com/Yi-111-a/jsp-000637-containment-graph
 branch: main
